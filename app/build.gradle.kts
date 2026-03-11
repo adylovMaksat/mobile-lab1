@@ -3,7 +3,11 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.lab1mobilesystems"
+=======
+    namespace = "com.example.lab1"
+>>>>>>> eb35c00 (Part 1 - Hello World app)
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
@@ -11,7 +15,11 @@ android {
     }
 
     defaultConfig {
+<<<<<<< HEAD
         applicationId = "com.example.lab1mobilesystems"
+=======
+        applicationId = "com.example.lab1"
+>>>>>>> eb35c00 (Part 1 - Hello World app)
         minSdk = 24
         targetSdk = 36
         versionCode = 1

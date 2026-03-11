@@ -22,6 +22,10 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "Lab1MobileSystems"
+=======
+rootProject.name = "Lab1"
+>>>>>>> eb35c00 (Part 1 - Hello World app)
 include(":app")
  

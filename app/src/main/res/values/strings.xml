@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">Lab1MobileSystems</string>
+=======
+    <string name="app_name">Lab1</string>
+>>>>>>> eb35c00 (Part 1 - Hello World app)
 </resources>
